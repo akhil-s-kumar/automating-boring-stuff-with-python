@@ -6,6 +6,6 @@
 
 <p>3. Truth Table for and, or, not</p>
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+<p>and</p>
+
+| True | True | True |
