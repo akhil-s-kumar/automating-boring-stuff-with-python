@@ -57,3 +57,17 @@ print('eggs')
 ```
 print('ham')
 ```
+
+<p>9. Program</p>
+
+```
+spam = int(input())
+if spam == 1:
+    print("Hello")
+elif spam == 2:
+    print("Howdy")
+else:
+    print("Greetings!")
+```
+
+<p>10. </p>
