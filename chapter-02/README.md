@@ -8,4 +8,25 @@
 
 <p>and</p>
 
+| a | b | a and b |
+| :---: | :---: | :---: |
 | True | True | True |
+| True | False | False |
+| False | True | False |
+| False | False | False |
+
+<p>or</p>
+
+| a | b | a or b |
+| :---: | :---: | :---: |
+| True | True | True |
+| True | False | True |
+| False | True | True |
+| False | False | False |
+
+<p>not</p>
+
+| a | not a |
+| :---: | :---: |
+| True | False |
+| False | True |
