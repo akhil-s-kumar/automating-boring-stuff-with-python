@@ -42,13 +42,18 @@
 <p>8. 3 blocks in the code are</p>
 
 ```
-spam = 0
-if spam == 10:
-    print('eggs')
+print('eggs')
     if spam > 5:
         print('bacon')
     else:
         print('ham')
     print('spam')
-print('spam')
+```
+
+```
+ print('bacon')
+```
+
+```
+print('ham')
 ```
