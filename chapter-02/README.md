@@ -30,3 +30,7 @@
 | :---: | :---: |
 | True | False |
 | False | True |
+
+<p>4. False, False, True, False, False, True</p>
+
+<p>5. >, <, <=, >=, ==, !=</p>
