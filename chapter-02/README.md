@@ -34,3 +34,21 @@
 <p>4. False, False, True, False, False, True</p>
 
 <p>5. >, <, <=, >=, ==, !=</p>
+
+<p>6. Equal to operator is used to check a value is same as the given value whereas assignment operator is used to assign a value to a variable.</p>
+
+<p>7. A condition is something makes a statement to true or false and It is used when multiple cases are there.</p>
+
+<p>8. 3 blocks in the code are</p>
+
+```
+spam = 0
+if spam == 10:
+    print('eggs')
+    if spam > 5:
+        print('bacon')
+    else:
+        print('ham')
+    print('spam')
+print('spam')
+```
