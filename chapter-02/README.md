@@ -70,4 +70,24 @@ else:
     print("Greetings!")
 ```
 
-<p>10. </p>
+<p>10. ctrl+c</p>
+
+<p>11. 'break' is used to exit from a loop and 'continue' is used to skip the rest of the instructions for the current itteration.</p>
+
+<p>12. Working of range(10), range(0,10) and range(0,10,1) are exactly same all loops works for 9 times and gives same outputs but range(10) has only stop argument, range(0,10) has only start and stop argument, but range(0,10,1) has start, stop and step argument</p>
+
+<p>13. Program</p>
+
+```
+fo i in range(1,11):
+    print(i)
+```
+
+```
+i = 1
+while i<11:
+    print(i)
+    i+=1
+```
+
+<p>14. spam.bacon()</p>
