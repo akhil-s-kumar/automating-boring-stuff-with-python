@@ -4,4 +4,3 @@ print(type(sheet))
 active_sheet = sheet.active
 print(active_sheet)
 print(active_sheet.title)
-
