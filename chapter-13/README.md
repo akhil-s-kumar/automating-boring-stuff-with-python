@@ -53,3 +53,39 @@ sheet.cell(row=2, column=2)
 
 <p>10. get_column_letter(14)</p>
 
+<p>11. </p>
+
+```
+import openpyxl
+wb = openpyxl.load_workbook('book1.xlsx')
+sheet = wb['Sheet1']
+print(tuple(sheet['A1':'F1']) )
+```
+
+<p>12. </p>
+
+```
+import openpyxl
+wb = openpyxl.load_workbook('book1.xlsx')
+sheet = wb['Sheet1']
+wb.save('example.xlsx') 
+```
+
+<p>13. sheet['A6'] = '=SUM(A1:A5)'</p>
+
+<p>14. </p>
+
+<p>15. </p>
+
+```
+import openpyxl
+wb = openpyxl.load_workbook('book1.xlsx')
+sheet = wb['Sheet1']
+sheet.row_dimensions[5].height = 70
+```
+
+<p>16. sheet.column_dimensions['C'].hidden = True</p>
+
+<p>17. freez palnes helps to make the row and column fixed at the top even when scroll down.</p>
+
+<p>18. openpyxl.charts.Reference(), openpyxl.charts.Series(), chartObj.append(seriesObj), openpyxl.charts. BarChart(), and add_chart()</p>
