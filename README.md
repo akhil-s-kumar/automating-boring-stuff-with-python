@@ -23,3 +23,4 @@
 | [Chapter 16](https://github.com/akhil-s-kumar/automating-boring-stuff-with-python/tree/main/chapter-16) | Read and Completed Practice questions | Completed |
 | [Chapter 17](https://github.com/akhil-s-kumar/automating-boring-stuff-with-python/tree/main/chapter-17) | Read and Completed Practice questions | Completed |
 | [Chapter 18](https://github.com/akhil-s-kumar/automating-boring-stuff-with-python/tree/main/chapter-18) | Read and Completed Practice questions | Completed |
+| [Chapter 19](https://github.com/akhil-s-kumar/automating-boring-stuff-with-python/tree/main/chapter-19) | Read and Completed Practice questions | Completed |
