@@ -64,6 +64,6 @@ logging.disable(logging.CRITICAL)
 <h3><i>Answer</i></h3>
 <p>It is a specific line of code that forces the debugger to pause whenever the program execution reaches that line.</p>
 
-<p>11. How do you set a breakpoint on a line of code in Mu?</p>
+<p>12. How do you set a breakpoint on a line of code in Mu?</p>
 <h3><i>Answer</i></h3>
 <p>Not using Mu, using VS code instead.</p>
