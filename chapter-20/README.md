@@ -69,15 +69,25 @@ pyautogui.sleep(3)
 
 <p>11. What makes PyAutoGUI error-prone?</p>
 <h3><i>Answer</i></h3>
-<p></p>
+<p>It's actually clicking according to our calculations, if some resolution of window changes everthing doesn't works.</p>
 
 <p>12. How can you find the size of every window on the screen that includes the text Notepad in its title?</p>
 <h3><i>Answer</i></h3>
 
 ```
-pyautogui.getWindowsWithTitle('Notepad')
+a = pyautogui.getWindowsWithTitle('Notepad')
+b = str(a[0])
+print(b)
 ```
 
 <p>13. How can you make, say, the Firefox browser active and in front of every other window on the screen?</p>
 <h3><i>Answer</i></h3>
-<p></p>
+
+```
+import pyautogui
+import time
+a = pyatuogui.getWindowsWithTitle('Firefox')
+b = str(a[0])
+time.sleep(5)
+b.activate()
+```
