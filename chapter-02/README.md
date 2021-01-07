@@ -1,4 +1,4 @@
-<h2>Answers to the practise questions on chapter 2</h2>
+<h2>Answers to the Practice Questions from chapter 02</h2>
 
 <p>1. What are the two values of the Boolean data type? How do you write them?</p>
 <h3><i>Answer</i></h3>
