@@ -98,7 +98,10 @@ but not the following:
 '1234' (which lacks commas)
 ```
 <h3><i>Answer</i></h3>
-<p>re.compile(r'^\d{1,3}(,\d{3})*$')</p>
+
+```
+re.compile(r'^\d{1,3}(,\d{3})*$')
+```
 
 <p>21. How would you write a regex that matches the full name of someone whose last name is Watanabe? You can assume that the first name that comes before it will always be one word that begins with a capital letter. The regex must match the following:</p>
 
@@ -115,7 +118,10 @@ but not the following:
 ```
 
 <h3><i>Answer</i></h3>
-<p>re.compile(r'[A-Z][a-z]*\sNakamoto')</p>
+
+```
+re.compile(r'[A-Z][a-z]*\sNakamoto')
+```
 
 <p>22. How would you write a regex that matches a sentence where the first word is either Alice, Bob, or Carol; the second word is either eats, pets, or throws; the third word is apples, cats, or baseballs; and the sentence ends with a period? This regex should be case-insensitive. It must match the following:</p>
 
@@ -133,4 +139,7 @@ but not the following:
 ```
 
 <h3><i>Answer</i></h3>
-<p>re.compile(r'(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|baseballs)\.', re.IGNORECASE)</p>
+
+```
+re.compile(r'(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|baseballs)\.', re.IGNORECASE)
+```
