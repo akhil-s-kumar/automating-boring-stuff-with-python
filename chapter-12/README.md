@@ -1,4 +1,4 @@
-<h2>Answers for the practice questions from chapter 12</h2>
+<h2>Answers to the Practice Questions from chapter 20</h2>
 
 <p>1. Briefly describe the differences between the webbrowser, requests, bs4, and selenium modules.</p>
 <h3><i>Answer</i></h3>
