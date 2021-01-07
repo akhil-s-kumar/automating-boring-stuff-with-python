@@ -1,4 +1,4 @@
-<h2>Answers to practice questions from chapter 03</h2>
+<h2>Answers to the Practice Questions from chapter 03</h2>
 
 <p>1. Why are functions advantageous to have in your programs?</p>
 <h3><i>Answer</i></h3>
