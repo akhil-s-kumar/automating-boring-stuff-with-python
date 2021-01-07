@@ -1,4 +1,4 @@
-<h2>Answers to the Practice Questions from chapter 8</h2>
+<h2>Answers to the Practice Questions from chapter 08</h2>
 
 <p>1. Does PyInputPlus come with the Python Standard Library?</p>
 <h3><i>Answer</i></h3>
