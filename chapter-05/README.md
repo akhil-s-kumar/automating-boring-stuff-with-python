@@ -1,4 +1,4 @@
-<h2>Answers for practice questions from chapter 5</h2>
+<h2>Answers to the Practice Questions from chapter 05</h2>
 
 <p>1. What does the code for an empty dictionary look like?</p>
 <h3><i>Answer</i></h3>
