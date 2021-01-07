@@ -1,4 +1,4 @@
-<h2>Answers to practice questions from chapter 6</h2>
+<h2>Answers to the Practice Questions from chapter 06</h2>
 
 <p>1. What are escape characters?</p>
 <h3><i>Answer</i></h3>
